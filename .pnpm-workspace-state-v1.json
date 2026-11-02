@@ -1,0 +1,40 @@
+{
+  "lastValidatedTimestamp": 1793608538791,
+  "projects": {
+    "C:\\Users\\saiba\\Downloads\\shared-bill-splitter\\shared-bill-splitter": {
+      "name": "shared-bill-splitter"
+    },
+    "C:\\Users\\saiba\\Downloads\\shared-bill-splitter\\shared-bill-splitter\\api": {
+      "name": "bill-splitter-api"
+    },
+    "C:\\Users\\saiba\\Downloads\\shared-bill-splitter\\shared-bill-splitter\\web": {
+      "name": "bill-splitter-web"
+    }
+  },
+  "pnpmfiles": [],
+  "settings": {
+    "autoInstallPeers": true,
+    "catalogs": {},
+    "dedupeDirectDeps": false,
+    "dedupeInjectedDeps": true,
+    "dedupePeerDependents": true,
+    "dev": true,
+    "excludeLinksFromLockfile": false,
+    "hoistPattern": [
+      "*"
+    ],
+    "hoistWorkspacePackages": true,
+    "injectWorkspacePackages": false,
+    "linkWorkspacePackages": false,
+    "nodeLinker": "isolated",
+    "optional": true,
+    "preferWorkspacePackages": false,
+    "production": true,
+    "publicHoistPattern": [],
+    "workspacePackagePatterns": [
+      "api",
+      "web"
+    ]
+  },
+  "filteredInstall": false
+}
